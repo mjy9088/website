@@ -197,8 +197,8 @@ importers:
   packages/website-helper-worker:
     dependencies:
       '@notionhq/client':
-        specifier: 2.2.8
-        version: 2.2.8
+        specifier: 2.2.11
+        version: 2.2.11
       form-data:
         specifier: 4.0.0
         version: 4.0.0
@@ -1916,8 +1916,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@notionhq/client@2.2.8:
-    resolution: {integrity: sha512-tRA6fqi9CgeWFyBA4NLU4OLAqETxCO44J6R9fv93kJQtYDNiQ5IB5Oqz7kC+vLT6Mlxc2zqrJa5rgzLfRnbiSA==}
+  /@notionhq/client@2.2.11:
+    resolution: {integrity: sha512-yTKeVu0fB9PtlK9eQwN6y+MEq0J0vu1MPP7j5bme9+KTenH4OTcOAx/70+LgvN4Z4RSsymQxdXrtcLHMFN9ZuA==}
     engines: {node: '>=12'}
     dependencies:
       '@types/node-fetch': 2.6.2
